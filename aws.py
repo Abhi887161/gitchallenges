@@ -2,8 +2,8 @@ def add_numbers(num1, num2):
     return num1 + num2
 
 # Input from the user
-number1 = float(input("Enter the first number: "))
-number2 = float(input("Enter the second number: "))
+numbers10 = float(input("Enter the first number: "))
+numbers20 = float(input("Enter the second number: "))
 
 # Call the function and display the result
 result = add_numbers(number1, number2)
