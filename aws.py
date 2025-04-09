@@ -6,5 +6,5 @@ numbers10 = float(input("Enter the first number: "))
 numbers20 = float(input("Enter the second number: "))
 
 # Call the function and display the result
-result = add_numbers(number1, number2)
+result = add_numbers(number10, number12)
 print(f"The sum of {number1} and {number2} is: {result}")
